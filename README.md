@@ -1,16 +1,45 @@
-## Hi there 👋
+# 이동희 포트폴리오
+학번: 20210483
 
-<!--
-**donghee501/donghee501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 소개
+수학교육과 이동희의 포트폴리오 웹사이트입니다.  
+보유 기술, 프로젝트 경험, 진로 목표를 한눈에 보여드리기 위해 제작되었습니다.
 
-Here are some ideas to get you started:
+## 테마
+- Start Bootstrap Freelancer ([테마 공식 링크](https://startbootstrap.com/theme/freelancer/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 웹사이트 주소
+- https://donghee501.github.io/donghee501/
+
+## github 주소
+- https://github.com/donghee501/donghee501.git
+
+## 주요 스킬
+- C언어
+- JavaScript
+
+## 주요 프로젝트
+1. **야옹이와 스프**  
+   - 귀여운 고양이의 성장과 모험을 그린 힐링 게임  
+   - 주요 기능: 고양이의 기분/친밀도 관리, 돌발 퀘스트  
+   - 사용 기술: C언어
+
+2. **수학교육 퀴즈 게임 (예정)**  
+   - 온라인 수학 퀴즈와 실시간 랭킹 웹 게임  
+   - 주요 기능: 문제 랜덤 출제, 점수 집계, 랭킹
+
+3. **타자 속도 게임 (예정)**  
+   - 제한 시간 내 타자 속도 측정  
+   - 주요 기능: 점수 집계, 최고 기록 저장
+
+4. **AI 챗봇 튜터 (예정)**  
+   - 수학 학습 Q&A 챗봇  
+   - 주요 기능: 질문-답변, 진도 추천
+
+5. **학생 출결·과제 관리 (예정)**  
+   - 출석 및 과제 현황 관리 시스템  
+   - 주요 기능: 출석 체크, 과제 업로드, 통계 그래프
+
+## 희망 직무
+- 교육 소프트웨어 개발자  
+- 프론트엔드 웹 개발자
